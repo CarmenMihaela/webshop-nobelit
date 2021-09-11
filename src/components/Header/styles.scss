@@ -1,0 +1,17 @@
+header {
+    font: 6.5rem;
+    box-shadow: 0 2px 4px 0 #EEC60A;
+    
+    .wrap {
+        max-width: 1450px;
+        position: relative;
+        margin:0;
+        height: 100%;
+
+        .logo {
+            height: 15vh;
+            margin-left: -3vh;
+            border-radius: 10px;
+        }
+    }
+}

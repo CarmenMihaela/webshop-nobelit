@@ -1,0 +1,25 @@
+.girl-reading {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Winslow_Homer_-_Girl_Reading_Under_an_Oak_Tree_%281879%29.jpg/1200px-Winslow_Homer_-_Girl_Reading_Under_an_Oak_Tree_%281879%29.jpg');
+    background-size: cover;
+    background-position: 60%;
+    width:100vw;
+    height:100vh;
+
+    .question {
+        color: white;
+        padding: 25vw 20vw 5vw;
+    }
+
+    .search-bar{
+        background-color: white;
+        width: 90vw;
+        height:10vw;
+        margin: 0 auto;
+        padding: 1vw;
+    }
+
+    .choose-message{
+        margin-top: 55vh;
+        margin-left: 2vw;
+    }
+}
